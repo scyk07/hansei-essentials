@@ -3,6 +3,7 @@
   "publisher": "scyk07",
   "displayName": "Hansei Essentials",
   "description": "Extension Pack for Hansei Cyber Security Highschool (Seoul, KR)",
+  "repository" : "https://github.com/scyk07/hansei-essentials.git",
   "version": "1.0.0",
   "engines": {
     "vscode": "^1.97.0"
