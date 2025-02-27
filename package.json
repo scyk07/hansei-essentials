@@ -1,10 +1,11 @@
 {
   "name": "hansei-essentials",
   "publisher": "scyk07",
-  "displayName": "Hansei Essentials",
-  "description": "Extension Pack for Hansei Cyber Security Highschool (Seoul, KR)",
+  "displayName": "VSCode Essentials for Hansei",
+  "description": "Extensions Pack for Hansei Cyber Security Highschool.",
   "repository" : "https://github.com/scyk07/hansei-essentials.git",
-  "version": "1.0.0",
+  "icon": "hansei.png",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.97.0"
   },
@@ -22,7 +23,6 @@
     "clemenspeters.format-json", 
     "codezombiech.gitignore", 
     "csharpier.csharpier-vscode", 
-    "davidanson.vscode-markdownlint", 
     "dbaeumer.vscode-eslint", 
     "ecmel.vscode-html-css", 
     "editorconfig.editorconfig", 
