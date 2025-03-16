@@ -10,17 +10,25 @@
 > - Artificial Intelligence High School
 > - [Enterprise Workforce Development Program](https://mainbiz.or.kr/business/human_res.asp)
 > 
->>  ### Department of Cloud-Security
+>  ### Department of Cloud-Security
 > - [Amazon AWS Academy](https://aws.amazon.com/ko/training/awsacademy/member-list/)
 > - [Cyber Guardians](https://www.cyberguardians.or.kr)
-> - C, C#, Java, Python, JavaScript Programming
+> - Cloud platform Infrastructure Management (CIM)
+> - Network Security, Cryptography
+> - C/C++, C#, Java, Python, JavaScript Programming
 > - Network, OS, Data Structure
 > - Big-Data Processing
 > 
->> ### Department of Metaverse-Game
+> ### Department of Intelligence-Software
+> - Artificial Intelligence Programming
+> - C/C++, C#, Java, Python, JavaScript Programming
+> - Network, OS, Data Structure, Database
+> - AI Model Development
+> 
+> ### Department of Metaverse-Game
 > - Meta Quest VR Programming
 > - Unity, Unreal Engine
 > - 3D Environment Modeling
-> - C, C#, Java, Python Programming
+> - C/C++, C#, Java, Python Programming
 > 
 > #
