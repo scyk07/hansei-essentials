@@ -3,7 +3,6 @@
 ## [1.0.4]
 - Remove Java support. (Use [InteliJ IDEA](https://www.jetbrains.com/shop/eform/students) instead)
 
-
 ## [1.0.3]
 - Bug Fix.
 
