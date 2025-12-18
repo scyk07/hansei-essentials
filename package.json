@@ -5,9 +5,9 @@
   "description": "Extensions Pack for Hansei Cyber Security Highschool.",
   "repository": "https://github.com/scyk07/hansei-essentials.git",
   "icon": "hansei.png",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "engines": {
-    "vscode": "^1.97.0"
+    "vscode": ">=1.97.0"
   },
   "categories": [
     "Extension Packs"
@@ -42,15 +42,13 @@
     "jock.svg",
     "joy-yu.css-snippets",
     "lacroixdavid1.vscode-format-context-menu",
-    "magicstack.magicpython",
-    "mechatroner.rainbow-csv",
     "mhutchie.git-graph", 
     "ms-ceintl.vscode-language-pack-ko",
     "ms-dotnettools.csdevkit",
     "ms-dotnettools.csharp",
     "ms-dotnettools.vscode-dotnet-runtime",
     "ms-python.black-formatter",
-    "ms-python.flake8",
+	"ms-python.vscode-pylance",
     "ms-python.python",
     "natqe.reload",
     "njpwerner.autodocstring",
@@ -61,11 +59,8 @@
     "ritwickdey.liveserver",
     "streetsidesoftware.code-spell-checker",
     "vincaslt.highlight-matching-tag",
-    "visualstudioexptteam.intellicode-api-usage-examples",
-    "visualstudioexptteam.vscodeintellicode",
     "visualstudiotoolsforunity.vstuc",
     "xabikos.javascriptsnippets",
-    "xyz.local-history",
     "yzhang.markdown-all-in-one",
     "zh9528.file-size"
   ]
