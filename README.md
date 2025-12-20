@@ -1,6 +1,7 @@
 # VSCode Essentials for Hansei
 
-- VSCode Extensions Pack for Hansei Students.
+- VSCode Extensions Pack for Hansei Security High School Students.
+- You can request add or delete extensions for standard curriculum.
 
 
 > ## Hansei Cyber Security High School
